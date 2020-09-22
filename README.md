@@ -1,2 +1,0 @@
-# CV
-basic)web CV
